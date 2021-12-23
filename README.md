@@ -1,33 +1,25 @@
-## Happy Birthday!!!
+# Birthday Website ! Template 1
+[![Happy Birthday](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b1/b.in?name=DidDog) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b1/b.in?name=DidDog)
+> **99.9% of people just say "Happy Birthday" to each other over Social Networking Sites like [Facebook](https://www.facebook.com/diddid.dogdid) and [Twitter](https://twitter.com/diddog_in) with the same 14 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
-### Wish someone special happy birthday in a special way.
+[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b1/b.in?name=DidDog)
 
-#### [See it Live](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b1/b.in?name=DidDog)
+### Designing a website to celebrate your loved one's day is always a great idea!
 
-#### Update: Now you can customize all the texts without modifying the code!
+> #### [Click here to view live demo](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b1/b.in?name=DidDog) 
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+## Technology Stack Used
 
-I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-javascript-yellow.svg?logo=javascript&style=flat-square)
 
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
+- Front End - **HTML**, **CSS**, **JavaScript**
 
-**You do not need to create Pull Request to this main repository to get it running.**
+### Need help?
 
-I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@diddod.dogdid&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/diddid.dogdid)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@diddog.in&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/diddog.in/) [![YouTube](https://img.shields.io/static/v1.svg?label=connect&message=@Did-Dog&color=9cf&logo=youtube&style=flat&logoColor=white&colorA=blue)](https://m.youtube.com/channel/UCxuyWS7wdHw6hq05b75hmZg/videos) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@diddog_in&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://mobile.twitter.com/diddog_in)
 
-Please note that I've created this page in a hurry and it comes with no warranty.
+***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/BirthdayWishes/) this repo.***
 
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
-
-
-## Contributing
-
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Happy wishing! 🎉
+******
